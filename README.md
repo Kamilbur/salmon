@@ -1,13 +1,9 @@
-<img alt="salmon logo" src="https://github.com/COMBINE-lab/salmon/raw/master/doc/salmon_logo.png" width="600">
+# Notice
+This is a modified version of [salmon](https://github.com/COMBINE-lab/salmon),
+licensed under the GNU GPL v3.
 
-[![Documentation Status](https://readthedocs.org/projects/salmon/badge/?version=latest)](http://salmon.readthedocs.org/en/latest)
-[![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat-square)](http://bioconda.github.io/recipes/salmon/README.html)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/combine-lab/salmon?style=flat-square)
-
-
-**Try out the new [alevin-fry](https://alevin-fry.readthedocs.io/en/latest/) framework for single-cell analysis; tutorials can be found [here](https://combine-lab.github.io/alevin-fry-tutorials/)!**
-
-**Help guide the development of Salmon, [take our survey](https://docs.google.com/forms/d/e/1FAIpQLSeWhBNE_fA_0uVHvbAlAulDmfmowv7rAYla879DZpqCARyRTQ/viewform)**
+All files in this repository may have been modified.
+See the commit history for details of specific changes.
 
 
 What is Salmon?
